@@ -1,5 +1,5 @@
 # glados-checkin
-  每天自动签到（天数+7），自动推送结果  
+  每天自动签到（天数+10086），自动推送结果  
 
 # clash 使用教程：  
   http://www.xmstudent.ml/post-24.html
